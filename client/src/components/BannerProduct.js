@@ -104,3 +104,5 @@ const BannerProduct = () => {
         </div>
     )
 }
+
+export default BannerProduct;
